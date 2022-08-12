@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+header{
+    background: rgba(213, 143, 23, 0.185);
+}
+main{
+    background: rgba(213, 143, 23, 0.36);
+}
+.fuente{
+    font-family: 'Silkscreen', cursive;
+}
+.grande{
+    font-size: 3em;
+}

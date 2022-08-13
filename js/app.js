@@ -18,6 +18,7 @@ function enviar(e) {
   console.log(ingresarHora);
   console.log(ingresarMinutos);
   console.log(ingresarSegundos);
+  parrafoTemporizador.innerHTML = `${ingresarHora} hs :${ingresarMinutos} min :${ingresarSegundos} seg`
 }
 function temporizador() {
   if (ingresarSegundos <= 0) {
